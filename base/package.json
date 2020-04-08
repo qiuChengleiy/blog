@@ -1,0 +1,30 @@
+{
+  "name": "node-notes",
+  "version": "1.0.0",
+  "description": "a nodejs notes",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hot": "./node_modules/.bin/supervisor process.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiuChengleiy/node-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiuChengleiy/node-notes/issues"
+  },
+  "homepage": "https://github.com/qiuChengleiy/node-notes#readme",
+  "devDependencies": {
+    "adm-zip": "^0.4.11",
+    "archiver": "^2.1.1",
+    "node-minizip": "^0.3.0",
+    "supervisor": "^0.12.0",
+    "unzip": "^0.1.11"
+  }
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>post 请求</title>
+</head>
+<body>
+<from>
+<input type="text" name="username" value="" class="username" />
+<input type="text" name="password" value="" class="password" />
+<input type="file" name="file" class="uploads" value="选择图片.jpg" style="position:absolute;top:10px;width:0" />
+</from>
+<br />
+<input type="submit" name="sub" value="提交" class="btn" />
+
+<div class="od" style="width: 0;height: 50px;background: blue;"></div>
+
+<script type="text/javascript">
+	const btn = document.querySelector(".btn");
+	const odiv = document.querySelector(".od")
+
+	btn.onclick = () => {
+
+	        // 增加表单数据   
+            let form = new FormData();
+            form.append("username", document.querySelector(".username").value); 
+            form.append("password", document.querySelector(".password").value);
+            form.append("file", document.querySelector(".uploads").files[0]);
+
+			console.log(form);  // 打印是看不到数据的
+		ajax.call(this,'/admin',form)
+	}
+	
+	let ajax = (url,data) => {
+		  let xmlHttpRequest;
+		 if (window.XMLHttpRequest) {
+
+           xmlHttpRequest = new XMLHttpRequest();
+        } else {
+            //IE6及其以下版本浏览器
+           xmlHttpRequest = new ActiveXObject('Microsoft.XMLHTTP');
+        }
+
+		xmlHttpRequest.open('post',url,true);
+
+		//xmlHttpRequest.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+
+			// 监听上传进度
+	    xmlHttpRequest.upload.onprogress = function (ev) {
+	    // 事件对象
+	    // console.log(ev);
+
+	        var percent = (ev.loaded / ev.total) * 100 + '%';
+
+	        console.log(percent);
+
+	        odiv.style.width = percent;
+	    }
+
+
+		xmlHttpRequest.send(data);
+
+		xmlHttpRequest.onreadystatechange = () => {
+			if(xmlHttpRequest.status == 200 && xmlHttpRequest.readyState == 4) {
+				console.log(xmlHttpRequest.responseText);
+				odiv.innerHTML = `<span>${xmlHttpRequest.responseText}</span>`;
+			}
+		}
+
+
+
+	}
+ 
+</script>
+
+</body>
+</html>

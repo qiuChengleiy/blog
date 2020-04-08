@@ -1,0 +1,40 @@
+
+
+.arrow {
+  cursor: pointer;
+  display: block;
+  height: 5px;
+  margin: 40px;
+  position: relative;
+  width: 27.5px;
+}
+.arrow.active:before,
+.arrow.active:after {
+
+}
+.arrow.active:before {
+  transform: rotate(0) scaleX(0.5) translateX(0px) translateY(px);
+}
+.arrow.active:after {
+  transform: rotate(0) scaleX(0.5) translateX(-0px) translateY(px);
+}
+.arrow:before,
+.arrow:after {
+  background: none repeat scroll 0 0 #68228B;
+  border-radius: 0px;
+  content: " ";
+  display: block;
+  height: 2px;
+  position: absolute;
+  top: 6px;
+  transition: all 300ms ease 0s;
+  width: 20px;
+}
+.arrow:before {
+  left: -3px;
+  transform: rotate(45deg);
+}
+.arrow:after {
+  right: -3px;
+  transform: rotate(-45deg);
+}

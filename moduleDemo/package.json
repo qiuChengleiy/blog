@@ -1,0 +1,18 @@
+{
+  "name": "moduledemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/supervisor ./day2/form.js"
+  },
+  "author": "qiuchenglei",
+  "license": "ISC",
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
