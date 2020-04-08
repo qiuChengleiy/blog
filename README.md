@@ -1,5 +1,4 @@
 # 个人小屋
-___
 
 - 个人主页 | 学习打卡 | 技术博客 | 前端学习
 
@@ -135,7 +134,7 @@ ___
 * [react学习](https://github.com/qiuChengleiy/js-notes/blob/master/doc/react.js)
 * [react进阶](./doc/react.md)
 * [react+dva+antd](https://github.com/qiuChengleiy/react-zhibao-project)
-* [rn学习](https://github.com/qiuChengleiy/react-native)
+* [RN 学习](https://github.com/qiuChengleiy/react-native)
 
 ... 待更新
 
@@ -166,13 +165,13 @@ ___
 ##### NodeJs相关
 
 * [源码仓库 | demo](https://github.com/qiuChengleiy/node-notes)
-* [hello world-编写一定Node web服务](./moduleDemo/day1/hello.js)
+* [搭建一个简易web服务](./moduleDemo/day1/hello.js)
 * [http](./moduleDemo/day1/http.js)
 * [fs](./moduleDemo/day1/fs.js)
-* [module -- npm -- package](http://node.org)
-* [GET](./)相对来说简单些，通过url来获取
+* [module | npm | package](http://node.org)
+* [GET](./) 相对来说简单些，通过url来获取
 * [POST](./moduleDemo/day2/post.js)
-* [form 中间件- 表单域-文件上传改名](./moduleDemo/day2/form.js)
+* [form 中间件 | 表单域文件上传改名](./moduleDemo/day2/form.js)
 * [重拾fs](./core/fs.js)
 * [buffer](./core/buffer.js)
 * [stream](./core/stream.js)
