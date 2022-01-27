@@ -1,21 +1,10 @@
-# 个人小屋
+# 程序员皮卡秋
 
-- 个人主页 | 学习打卡 | 技术博客 | 前端学习
+- 个人主页 | 学习打卡 | 技术博客 | 全栈开发
 
-* [我的主页](http://www.qiuchenglei.top)
+* [我的主页](http://101.200.73.72/)
 
 ___
-
-### 博客
-
-- 文章与本仓库同步更新 ~~~~ 
-
-- 博主希望与大家一同进步 
-
-- 我的简书[@简书](https://www.jianshu.com/u/41c9f38a03fb)
-
-- 我的博客[@博客园](https://www.cnblogs.com/qiuchenglei/)
-
 
 #### 文章目录(已更新 | 博客同步)
 
@@ -197,6 +186,12 @@ ___
 
 ##### 后端学习
 
+###### Java学习笔记
+
+* [基础篇](https://mp.weixin.qq.com/s/sogOD_ymRfriUYFUSC0H1w)
+
+
+
 ###### PHP学习
 
 * [笔记](https://github.com/qiuChengleiy/php-notes)
@@ -236,8 +231,9 @@ ___
 * [markdown文档撰写技巧](https://www.cnblogs.com/qiuchenglei/p/10322766.html)
 ___
 
-#### 推荐几个不错的前端优质公众号
+#### 推荐几个不错的优质公众号
 
+前端
 * [前端真好玩](./)
 * [code秘密花园](./)
 * [高级前端进阶](./)
@@ -247,6 +243,17 @@ ___
 * [前端工匠](./)
 * [前端桃园](./)
 * [若川视野](./)
+
+Go
+* [脑子进煎鱼了](./)
+* [go-zero](./)
+
+java
+* [macrozheng](./)
+
+linux
+* [良许linux](./)
+
 ___
 
 #### 推荐两个不错的云储存(速度很快，放些静态文件还是不错的)
@@ -257,11 +264,9 @@ ___
 ___
 #### 关于我
 
-* qq:1421546334
+欢迎关注公众号， 获取教程笔记 ~
 
-* wechat:qiucl123321
-
-* email:qiuchengleiy@qq.com
+![](https://i.bmp.ovh/imgs/2022/01/32c1360bcde3e5b8.jpg)
 
 一起进步 欢迎来撩 (￣▽￣)~
 
