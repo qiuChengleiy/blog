@@ -13,30 +13,30 @@ ___
 
 #### 基础 & 进阶
 
-- [基础](/java/base/)
-- [枚举与泛型](/java/enum/)
-- [注解与反射](/java/reflect/)
-- [集合](/java/collector/)
-- [IO](/java/io/)
+- [基础](https://www.qiuchenglei.top/java/base/)
+- [枚举与泛型](https://www.qiuchenglei.top/java/enum/)
+- [注解与反射](https://www.qiuchenglei.top/java/reflect/)
+- [集合](https://www.qiuchenglei.top/java/collector/)
+- [IO](https://www.qiuchenglei.top/java/io/)
 
 #### SpringBoot教程
 
-- [入门](/java/springboot/base)
-- [配置和常用注解](/java/springboot/config)
-- [控制器和请求处理](/java/springboot/mapping)
-- [Mybatis框架学习之Mysql快速入门](/java/springboot/mysql)
-- [Mybatis框架学习之基础使用](/java/springboot/mybatis)
-- [Mybatis框架学习之进阶用法](/java/springboot/mybatis_high)
+- [入门](https://www.qiuchenglei.top/java/springboot/base)
+- [配置和常用注解](https://www.qiuchenglei.top/java/springboot/config)
+- [控制器和请求处理](https://www.qiuchenglei.top/java/springboot/mapping)
+- [Mybatis框架学习之Mysql快速入门](https://www.qiuchenglei.top/java/springboot/mysql)
+- [Mybatis框架学习之基础使用](https://www.qiuchenglei.top/java/springboot/mybatis)
+- [Mybatis框架学习之进阶用法](https://www.qiuchenglei.top/java/springboot/mybatis_high)
 
-- [进阶之缓存中间件Redis](/java/springboot/redis)
-- [进阶之MyBatis分页插件](/java/springboot/page_helper)
-- [进阶之CORS跨域访问](/java/springboot/cors)
-- [进阶之日志集成(logback)](/java/springboot/logback)
-- [进阶之请求拦截](/java/springboot/web_log)
-- [进阶之事务管理及并发问题](/java/springboot/transaction)
+- [进阶之缓存中间件Redis](https://www.qiuchenglei.top/java/springboot/redis)
+- [进阶之MyBatis分页插件](https://www.qiuchenglei.top/java/springboot/page_helper)
+- [进阶之CORS跨域访问](https://www.qiuchenglei.top/java/springboot/cors)
+- [进阶之日志集成(logback)](https://www.qiuchenglei.top/java/springboot/logback)
+- [进阶之请求拦截](https://www.qiuchenglei.top/java/springboot/web_log)
+- [进阶之事务管理及并发问题](https://www.qiuchenglei.top/java/springboot/transaction)
 
 
-- [进阶之Shiro安全框架整合（一）](/java/shiro/base)
+- [进阶之Shiro安全框架整合（一）](https://www.qiuchenglei.top/java/shiro/base)
 
 
 ### 前端相关
