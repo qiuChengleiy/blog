@@ -7,7 +7,39 @@
 - 个人主页 | 学习打卡 | 技术博客 | 一起进步
 ___
 
-#### 文章目录(已更新 | 博客同步)
+## 文章目录(已更新 | 博客同步)
+
+### Java
+
+#### 基础 & 进阶
+
+- [基础](/java/base/)
+- [枚举与泛型](/java/enum/)
+- [注解与反射](/java/reflect/)
+- [集合](/java/collector/)
+- [IO](/java/io/)
+
+#### SpringBoot教程
+
+- [入门](/java/springboot/base)
+- [配置和常用注解](/java/springboot/config)
+- [控制器和请求处理](/java/springboot/mapping)
+- [Mybatis框架学习之Mysql快速入门](/java/springboot/mysql)
+- [Mybatis框架学习之基础使用](/java/springboot/mybatis)
+- [Mybatis框架学习之进阶用法](/java/springboot/mybatis_high)
+
+- [进阶之缓存中间件Redis](/java/springboot/redis)
+- [进阶之MyBatis分页插件](/java/springboot/page_helper)
+- [进阶之CORS跨域访问](/java/springboot/cors)
+- [进阶之日志集成(logback)](/java/springboot/logback)
+- [进阶之请求拦截](/java/springboot/web_log)
+- [进阶之事务管理及并发问题](/java/springboot/transaction)
+
+
+- [进阶之Shiro安全框架整合（一）](/java/shiro/base)
+
+
+### 前端相关
 
 ##### HTML相关
 
@@ -110,7 +142,7 @@ ___
 ___
 
 
-##### 前端框架
+### 前端框架
 
 ###### Vue相关
 
@@ -126,7 +158,6 @@ ___
 * [react+dva+antd](https://github.com/qiuChengleiy/react-zhibao-project)
 * [RN 学习](https://github.com/qiuChengleiy/react-native)
 
-... 待更新
 
 ###### Angular相关
 
@@ -152,7 +183,7 @@ ___
 
 ___
 
-##### NodeJs相关
+### NodeJs相关
 
 * [源码仓库 | demo](https://github.com/qiuChengleiy/node-notes)
 * [搭建一个简易web服务](./moduleDemo/day1/hello.js)
@@ -179,27 +210,19 @@ ___
 ___
 
 
-##### 测试相关
+### 测试相关
 
 * [前端单元测试学习](https://www.jianshu.com/p/f98c9790799d)
 
 ___
 
-##### 后端学习
-
-###### Java学习笔记
-
-* [基础篇](https://mp.weixin.qq.com/s/sogOD_ymRfriUYFUSC0H1w)
-
-
-
-###### PHP学习
+### PHP学习
 
 * [笔记](https://github.com/qiuChengleiy/php-notes)
 * [bbs | 实践](https://github.com/qiuChengleiy/bbs-php)（14✨）
 
 
-###### Python3学习
+### Python3学习
 
 * [数据类型](https://github.com/qiuChengleiy/python-notes/tree/master/数据类型)
 * [函数式编程](https://github.com/qiuChengleiy/python-notes/tree/master/func)
@@ -211,7 +234,7 @@ ___
 * [Django](https://www.jianshu.com/p/033e4bdcc36c)
 * [爬虫-urllib](https://github.com/qiuChengleiy/python-reptilian)
 
-###### 数据库相关
+### 数据库相关
 
 * [mysql | 介绍](./doc/mysql/理论篇.md)
 * [mysql | 采坑记录](./doc/mysql/填坑记录.md)
@@ -220,58 +243,33 @@ ___
 ___
 
 
-
-##### Git相关 
+### Git相关 
 
 - [笔记](./doc/git.md)
 
 ___
 
-##### 其他
+### 其他
 
 * [markdown文档撰写技巧](https://www.cnblogs.com/qiuchenglei/p/10322766.html)
-___
-
-#### 推荐几个不错的优质公众号
-
-前端
-* [前端真好玩](./)
-* [code秘密花园](./)
-* [高级前端进阶](./)
-* [前端宇宙](./)
-* [前端技术优选](./)
-* [程序员成长指北](./)
-* [前端工匠](./)
-* [前端桃园](./)
-* [若川视野](./)
-
-Go
-* [脑子进煎鱼了](./)
-* [go-zero](./)
-
-java
-* [macrozheng](./)
-
-linux
-* [良许linux](./)
 
 ___
 
-#### 推荐两个不错的云储存(速度很快，放些静态文件还是不错的)
+### 推荐两个不错的云储存(速度很快，放些静态文件还是不错的)
 
 * [阿里云储存oss](https://oss.console.aliyun.com)
 * [七牛云储存oss](https://www.qiniu.com/?hmsr=biaoti&hmpl=pinzhuan&hmcu=biaoti&hmkw=&hmci=)
 
 ___
-#### 关于我
+### 关于我
 
 欢迎关注公众号， 获取教程笔记 ~
 
-![](http://101.200.73.72/img/wx.jpg)
+![](https://www.qiuchenglei.top/img/wx.jpg)
 
 一起进步 欢迎来撩 (￣▽￣)~
 
 
-#### 始终相信
+### 始终相信
 
 敢于尝试的你 其实已经进步了
