@@ -9,17 +9,17 @@ ___
 
 ## 文章目录(已更新 | 博客同步)
 
-### Java
+## Java
 
-#### 基础 & 进阶
+### 基础 & 进阶
 
 - [基础](https://www.qiuchenglei.top/java/base/)
 - [枚举与泛型](https://www.qiuchenglei.top/java/enum/)
 - [注解与反射](https://www.qiuchenglei.top/java/reflect/)
 - [集合](https://www.qiuchenglei.top/java/collector/)
 - [IO](https://www.qiuchenglei.top/java/io/)
-
-#### SpringBoot教程
+___
+## SpringBoot教程
 ### 基础部分
 
 - [Springboot入门](https://mp.weixin.qq.com/s/FFgVhS5p6GdgTXlCsbgY6g)
@@ -33,6 +33,8 @@ ___
 - [Springboot基础（四）](https://mp.weixin.qq.com/s/NADDy2WpaHkb17ypsSu9SA)
 
 - [Springboot基础（五）](https://mp.weixin.qq.com/s/dfcPjDzbi57aDWyNZCehJw)
+
+___
 
 ### 进阶部分
 
@@ -50,6 +52,7 @@ ___
 
 - [SpringBoot进阶之事务管理及并发问题](https://mp.weixin.qq.com/s/5Lj5Ui42BMfyK1EP7NqQbA)
 
+___
 
 ### Shiro安全框架整合
 
@@ -59,6 +62,8 @@ ___
 - [SpringBoot进阶之整合Shiro鉴权框架(四)](https://mp.weixin.qq.com/s/9BVYhX_Gp8MbIjMz8_iHbg)
 - [SpringBoot进阶之整合Shiro鉴权框架(五)](https://mp.weixin.qq.com/s/GNPLxCZtvmfS1GxFmWhOCw)
 - [SpringBoot进阶之整合Shiro鉴权框架(六)](https://mp.weixin.qq.com/s/9WvPQbMasWVpQVcLMa6bkQ)
+
+___
 
 ### 服务部署
 
@@ -77,7 +82,7 @@ ___
 - [一起来学SpringCloud之整合Zuul网关服务(一)](https://mp.weixin.qq.com/s/4JdUhEJytR4812Rrr4x38g)
 - [一起来学SpringCloud之整合Zuul网关服务(二)](https://mp.weixin.qq.com/s/yEHAGFDgv3tR7ZrbGYPA3Q)
 
-
+___
 ### 前端相关
 
 ##### HTML相关
