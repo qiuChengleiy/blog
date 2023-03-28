@@ -117,7 +117,27 @@ ___
 - [面试官: Stream并行流有了解过吗？说说看](https://mp.weixin.qq.com/s/Nmexsl9RrHZudRBrU0b1FA)
 
 
-### Elasticsearch 系列教程
+### Java设计模式
+
+- [一起来学设计模式之认识设计模式](https://mp.weixin.qq.com/s/1sFPpYKMYyRvKzU0EFse1A)
+
+### 项目源码(源码已更新 欢迎star⭐️)
+- [java-design-mode-all: https://github.com/qiuChengleiy/java-design-mode-all](https://github.com/qiuChengleiy/java-design-mode-all)
+
+
+### Kafka 专题学习
+
+- [一起来学kafka之Kafka集群搭建](https://mp.weixin.qq.com/s/XV2GUwz8mKSNmdI5YWwYVg)
+- [一起来学kafka之整合SpringBoot基本使用](https://mp.weixin.qq.com/s/wgE21lrcjEYWP5-2kQeACA)
+- [一起来学kafka之整合SpringBoot深入使用(一)](https://mp.weixin.qq.com/s/fI4KNz497qUYueWuOkoUNA)
+- [一起来学kafka之整合SpringBoot深入使用(二)](https://mp.weixin.qq.com/s/xLkVTRn2OLcp9hblvw3Xvg)
+- [一起来学kafka之整合SpringBoot深入使用(三)](https://mp.weixin.qq.com/s/8iVJ8nyRIpF1gnql1X6yVg)
+
+### 项目源码(源码已更新 欢迎star⭐️)
+
+- [springboot-kafka-all: https://github.com/qiuChengleiy/springboot-kafka-all](https://github.com/qiuChengleiy/springboot-kafka-all)
+
+### ElasticSearch 专题学习
 
 - [利用docker搭建es集群](https://mp.weixin.qq.com/s/Z6HhZWNbmUrp4kRn5EX3FA)
 - [一起来学ElasticSearch(一)](https://mp.weixin.qq.com/s/UXDc2mmWlXHhn3R3D0rong)
@@ -132,6 +152,12 @@ ___
 - [一起来学ElasticSearch(十)](https://mp.weixin.qq.com/s/rCIoJkVpqcJpDJ0molBaGw)
 
 - [一起来学ElasticSearch之整合SpringBoot(一)](https://mp.weixin.qq.com/s/Y1wiGPam81iD26KCu2bWKw)
+- [一起来学ElasticSearch之整合SpringBoot(二)](https://mp.weixin.qq.com/s/gJ4ueNKr0RqYVe7541gbGA)
+- [一起来学ElasticSearch之整合SpringBoot(三)](https://mp.weixin.qq.com/s/ngKMEzZJ59FiR4xnEzz-pA)
+
+### 项目源码(源码已更新 欢迎star⭐️)
+
+- [springboot-es-all: https://github.com/qiuChengleiy/springboot-es-all](https://github.com/qiuChengleiy/springboot-es-all)
 
 ___
 ### 前端相关
