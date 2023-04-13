@@ -120,6 +120,16 @@ ___
 ### Java设计模式
 
 - [一起来学设计模式之认识设计模式](https://mp.weixin.qq.com/s/1sFPpYKMYyRvKzU0EFse1A)
+- [一起来学设计模式之单例模式](https://mp.weixin.qq.com/s/9K6LxQoJs11iBNv9kzbDyQ)
+- [一起来学设计模式之工厂模式](https://mp.weixin.qq.com/s/E1ish-KysPsS5hjyzxkTow)
+- [一起来学设计模式之建造者模式](https://mp.weixin.qq.com/s/a-rTYNwnZAYPeEQQ0vuoUg)
+- [一起来学设计模式之原型模式](https://mp.weixin.qq.com/s/u9hJuZeUFEqyxdj7EP4NLA)
+- [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
+- [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
+- [一起来学设计模式之组合模式](https://mp.weixin.qq.com/s/Xm0HLLZSuaN6xRBSIu1bUA)
+- [一起来学设计模式之装饰器模式](https://mp.weixin.qq.com/s/U-93tjfB4OW0iMdFe0ziUg)
+- [一起来学设计模式之外观模式](https://mp.weixin.qq.com/s/9RzFRZT3KA5z4GahV1j6aw)
+
 
 ### 项目源码(源码已更新 欢迎star⭐️)
 - [java-design-mode-all: https://github.com/qiuChengleiy/java-design-mode-all](https://github.com/qiuChengleiy/java-design-mode-all)
