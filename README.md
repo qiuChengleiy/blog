@@ -125,10 +125,24 @@ ___
 - [一起来学设计模式之建造者模式](https://mp.weixin.qq.com/s/a-rTYNwnZAYPeEQQ0vuoUg)
 - [一起来学设计模式之原型模式](https://mp.weixin.qq.com/s/u9hJuZeUFEqyxdj7EP4NLA)
 - [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
-- [一起来学设计模式之适配器模式](https://mp.weixin.qq.com/s/bazzKTQ08Tny4OdrQmaF8w)
+- [一起来学设计模式之桥接模式](https://mp.weixin.qq.com/s/jsh5oovdFG8W7PdJ4KQWRQ)
 - [一起来学设计模式之组合模式](https://mp.weixin.qq.com/s/Xm0HLLZSuaN6xRBSIu1bUA)
 - [一起来学设计模式之装饰器模式](https://mp.weixin.qq.com/s/U-93tjfB4OW0iMdFe0ziUg)
 - [一起来学设计模式之外观模式](https://mp.weixin.qq.com/s/9RzFRZT3KA5z4GahV1j6aw)
+- [一起来学设计模式之享元模式](https://mp.weixin.qq.com/s/0K0U7cUlgsxSxFJdde8E7A)
+- [一起来学设计模式之代理模式](https://mp.weixin.qq.com/s/hBp0fJ83Y9ijSnoraqlyIA)
+- [一起来学设计模式之责任链模式](https://mp.weixin.qq.com/s/552JCyXhNcxqOIrVC3OJWQ)
+- [一起来学设计模式之命令模式](https://mp.weixin.qq.com/s/9ENTuLqpmwSfUSc9Qe1vqQ)
+- [一起来学设计模式之解释器模式](https://mp.weixin.qq.com/s/UMi7GX9dOXYXgaxPCMuKgQ)
+- [一起来学设计模式之迭代器模式](https://mp.weixin.qq.com/s/ql_jDSK9LNHWCyhQ6uK6aQ)
+- [一起来学设计模式之中介者模式](https://mp.weixin.qq.com/s/_8j1QFYZWTiFEP5qz0rHfw)
+- [一起来学设计模式之备忘录模式](https://mp.weixin.qq.com/s/lUiySMrzx2hdmSsHMJPgpA)
+- [一起来学设计模式之观察者模式](https://mp.weixin.qq.com/s/THiXHvZG0W-qYU-EjUT1Nw)
+- [一起来学设计模式之状态模式](https://mp.weixin.qq.com/s/6k-HQCsGCTBBI9ie3eKk9A)
+- [一起来学设计模式之策略模式](https://mp.weixin.qq.com/s/pjbtiLss4TDGsWeXBQGU0A)
+- [一起来学设计模式之模板方法模式](https://mp.weixin.qq.com/s/QKWfGkot27sutkDD2-epww)
+- [一起来学设计模式之访问者模式](https://mp.weixin.qq.com/s/W8saETmyLRsV6LfvPxSxXQ)
+- [一起来学设计模式之依赖注入模式](https://mp.weixin.qq.com/s/tI0JxsgDKIz8Kfd--HcQEg)
 
 
 ### 项目源码(源码已更新 欢迎star⭐️)
@@ -168,6 +182,27 @@ ___
 ### 项目源码(源码已更新 欢迎star⭐️)
 
 - [springboot-es-all: https://github.com/qiuChengleiy/springboot-es-all](https://github.com/qiuChengleiy/springboot-es-all)
+
+
+
+### Java面试题讲解
+
+- [查漏补缺第一期(Redis相关)](https://mp.weixin.qq.com/s/ETAVvqwU3ZkB0MDtQ8hBAg)
+- [查漏补缺第二期(synchronized & 锁升级)](https://mp.weixin.qq.com/s/KbVOq7CKza8Pdp1DDPjD5A)
+- [查漏补缺第三期(分布式事务相关)](https://mp.weixin.qq.com/s/tejPBx-huaDMYRFeWzH2jA)
+- [查漏补缺第四期(Mysql相关)](https://mp.weixin.qq.com/s/DsNWgaPYrgE7QqPgPjuEcA)
+- [查漏补缺第五期(HashMap & ConcurrentHashMap)](https://mp.weixin.qq.com/s/4CDkuH2w8Fe0acI-xW-5JA)
+- [查漏补缺第六期(京东一面)](https://mp.weixin.qq.com/s/AhQZABtVjIxXs4CVhDaPbg)
+- [查漏补缺第七期(美团到店一面)](https://mp.weixin.qq.com/s/jongfptIxQINp6HdrfiGUw)
+- [查漏补缺第八期(阿里一面)](https://mp.weixin.qq.com/s/A9mIydMAt_rGM1w9-tYe6A)
+- [查漏补缺第九期(阿里二面)](https://mp.weixin.qq.com/s/IJLWdKu4brmfQ2BZgApbtQ)
+- [查漏补缺第十期(网易实习一面)](https://mp.weixin.qq.com/s/T1mNDir9y8tcHNXOKQ0nVA)
+- [查漏补缺第十一期(网易实习二面)](https://mp.weixin.qq.com/s/kRdF0X_CDPI46GXkMTHquQ)
+
+### 项目源码(源码已更新 欢迎star⭐️)
+
+- [java-interview-all: https://github.com/qiuChengleiy/java-interview-all](https://github.com/qiuChengleiy/java-interview-all)
+
 
 ___
 ### 前端相关
