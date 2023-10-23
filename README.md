@@ -198,11 +198,53 @@ ___
 - [查漏补缺第九期(阿里二面)](https://mp.weixin.qq.com/s/IJLWdKu4brmfQ2BZgApbtQ)
 - [查漏补缺第十期(网易实习一面)](https://mp.weixin.qq.com/s/T1mNDir9y8tcHNXOKQ0nVA)
 - [查漏补缺第十一期(网易实习二面)](https://mp.weixin.qq.com/s/kRdF0X_CDPI46GXkMTHquQ)
-
+- [查漏补缺第十二期(网易实习三面)](https://mp.weixin.qq.com/s/Dy7shhrcrBpoZFn8wN17zw)
+- [查漏补缺第十三期(滴滴实习一面)](https://mp.weixin.qq.com/s/B6Myjth7nd-ieBtCV7Q0-Q)
+- [查漏补缺第十四期(滴滴实习二面)](https://mp.weixin.qq.com/s/G-hmZJDTY0gr4qvrbRBGyg)
+- [查漏补缺第十五期(华为一面)](https://mp.weixin.qq.com/s/lio5r9YlX1UKqkeBrZLEeg)
+- [查漏补缺第十六期(华为二面)](https://mp.weixin.qq.com/s/7jqkMzY4h5zcWBRQCZOM9A)
+- [查漏补缺第十七期(华为三面)](https://mp.weixin.qq.com/s/IvNY9_Iz4uwAoT1vLvjogw)
+- [查漏补缺第十八期(你了解class文件吗)](https://mp.weixin.qq.com/s/lLsgqQcNNWJ_Q6xyUywXYw)
+  
 ### 项目源码(源码已更新 欢迎star⭐️)
 
 - [java-interview-all: https://github.com/qiuChengleiy/java-interview-all](https://github.com/qiuChengleiy/java-interview-all)
 
+___
+
+### 往期Linux相关文章
+
+- [一起来学Linux命令(一)](https://mp.weixin.qq.com/s/sNIck5I2xH1kL5h5pKNDcw)
+- [一起来学Linux命令(二)](https://mp.weixin.qq.com/s/oEpoCyqMYG_Y6G3VLNH4Eg)
+- [一起来学Linux命令(三)](https://mp.weixin.qq.com/s/k7mGBEqkmh8TM8lXKFNcXg)
+- [一起来学Linux命令(四)](https://mp.weixin.qq.com/s/Yv-jrqPmUqIpQU3YtjRxug)
+- [一起来学Linux命令(五)](https://mp.weixin.qq.com/s/1rCrU_k9m_N5q4M858palw)
+- [一起来学Linux命令(六)](https://mp.weixin.qq.com/s/sBicYQoiBTLudI66qeMijg)
+- [一起来学Linux命令(七)](https://mp.weixin.qq.com/s/fc4qpZRW8sr6P_4s7EvXcA)
+- [一起来学Linux命令(八)](https://mp.weixin.qq.com/s/n388KavzFimUUT4r_E6IZg)
+- [一起来学Linux命令(九)](https://mp.weixin.qq.com/s/WpyWpMjoaUIsMSG0Tnbjcg)
+- [一起来学Linux命令(十)](https://mp.weixin.qq.com/s/fdRIDBrG06RtDs1KYw7t9w)
+
+___
+
+### 往前Shell脚本编程相关文章
+
+- [一起来学Shell脚本编程(一)](https://mp.weixin.qq.com/s/-_D7PoJwac6YDn9Vn5UF2A)
+- [一起来学Shell脚本编程(二)](https://mp.weixin.qq.com/s/vVnL3XT2i_Tdzwkr9mWjKw)
+- [一起来学Shell脚本编程(三)](https://mp.weixin.qq.com/s/qh3SqOD2D3wh3km5x6DJTw)
+- [一起来学Shell脚本编程(四)](https://mp.weixin.qq.com/s/gCKPssmQf1YIvfVl0jq5oA)
+- [一起来学Shell脚本编程(五)](https://mp.weixin.qq.com/s/zSrn7km_DzEZbqa1198BMA)
+- [一起来学Shell脚本编程(六)](https://mp.weixin.qq.com/s/9Ek2nDbKMsHYTmTvhMgTJg)
+- [一起来学Shell脚本编程(七)](https://mp.weixin.qq.com/s/skLKFKaqQxww-hogbKxpbQ)
+
+___
+
+### Docker教程相关文章
+
+- [一起来学Docker(一)](https://mp.weixin.qq.com/s/aQ0c_y4fnT5fOb1BjXTYVQ)
+- [一起来学Docker(二)](https://mp.weixin.qq.com/s/dqnQGqoQNImcqgncVH_oWQ)
+- [一起来学Docker(三)](https://mp.weixin.qq.com/s/rNy_QwvhjBTWJwrVvc8U0Q)
+- [一起来学Docker(四)](https://mp.weixin.qq.com/s/IWtCcv8CkDvG851y8ZPdwA)
 
 ___
 ### 前端相关
