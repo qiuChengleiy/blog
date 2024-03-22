@@ -245,6 +245,39 @@ ___
 - [一起来学Docker(二)](https://mp.weixin.qq.com/s/dqnQGqoQNImcqgncVH_oWQ)
 - [一起来学Docker(三)](https://mp.weixin.qq.com/s/rNy_QwvhjBTWJwrVvc8U0Q)
 - [一起来学Docker(四)](https://mp.weixin.qq.com/s/IWtCcv8CkDvG851y8ZPdwA)
+- [一起来学Docker(五)](https://mp.weixin.qq.com/s/fINh2-SyetERS0-bzcnkMg)
+- [一起来学Docker(六)](https://mp.weixin.qq.com/s/6H9rexSfQ3BdRNgaLPriPQ)
+- [一起来学Docker(七)](https://mp.weixin.qq.com/s/8FFRNjapHpukaNiC1qw77w)
+
+###  往期Nginx教程相关文章
+
+- [一起来学Nginx(一)](https://mp.weixin.qq.com/s/5ofPIGLGK7J2QtKF9OGhHA)
+- [一起来学Nginx(二)](https://mp.weixin.qq.com/s/tAlqlgd7KqMxdC_jfsNO0w)
+- [一起来学Nginx(三)](https://mp.weixin.qq.com/s/Ih1kpoSL4xfabHyoM4cqhw)
+
+###  MybatisPlus教程相关文章
+
+- [一起来学Mybatis Plus(一)](https://mp.weixin.qq.com/s/3vT6H0XHrJv3RJ8oJNhAIg)
+- [一起来学Mybatis Plus(二) & 内置注解](https://mp.weixin.qq.com/s/8ovZuZIFyszrUzZhVc7m1w)
+- [一起来学Mybatis Plus(三) & 代码生成器](https://mp.weixin.qq.com/s/OlcmQbNeQKRmC7KN8ekj3A)
+- [一起来学Mybatis Plus(四) & Service CRUD接口](https://mp.weixin.qq.com/s/y5fNOaJtC9X5KuIcBtOfOg)
+- [一起来学Mybatis Plus(五) & Mapper CRUD接口](https://mp.weixin.qq.com/s/mjalFZ8K5xclF5XVMP7D3A)
+- [一起来学Mybatis Plus(六) & 条件构造器](https://mp.weixin.qq.com/s/FOGRmtl280K-LUcruPu1hQ)
+- [一起来学Mybatis Plus(七) & 主键策略](https://mp.weixin.qq.com/s/cGU13x6QaeY-jFvzQo6Pkw)
+- [一起来学Mybatis Plus(八) & 自定义插件开发](https://mp.weixin.qq.com/s/oowq9HTcYqqe7xPPCh-8tQ)
+
+
+- [源码地址 https://github.com/qiuChengleiy/springboot-all.git](https://github.com/qiuChengleiy/springboot-all.git)
+
+
+###  阿里巴巴Java开发手册相关文章
+
+- [一起来学阿里巴巴Java开发手册(一)](https://mp.weixin.qq.com/s/2vUwK2bSraTeuUDXl8dRSw)
+- [一起来学阿里巴巴Java开发手册(二)](https://mp.weixin.qq.com/s/jn29kMm1Kqm0WBxXnGbFIQ)
+- [一起来学阿里巴巴Java开发手册(三)](https://mp.weixin.qq.com/s/vCz8jcvHe6d94-yP9NNRhA)
+- [一起来学阿里巴巴Java开发手册(四)](https://mp.weixin.qq.com/s/FqQKDUVYPrv3YdYIws-_Bw)
+- [一起来学阿里巴巴Java开发手册(五)](https://mp.weixin.qq.com/s/Dw6LzhDuhrQVa7lISsNfxw)
+
 
 ___
 ### 前端相关
